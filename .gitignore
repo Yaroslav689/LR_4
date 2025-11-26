@@ -1,0 +1,10 @@
+“#LR_4”
+
+*.[oa]
+!lib.a
+/TODO
+build/
+doc/*.txt
+doc/**/*.pdf
+
+*.txt
